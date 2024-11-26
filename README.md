@@ -2,7 +2,7 @@
 
 I am a student at a Faculty of Technical Sciences in Serbia. 
 I have a background in music, having received formal training in both guitar and piano, though I wouldn’t consider myself an expert in either—just someone who enjoys playing and learning.
-I also design games, primarily as a hobby, focusing on board games and tabletop RPGs. While I’m self-taught and knowledgeable in this area, I don’t consider myself a professional, but it’s something I’m passionate about.
+I am a game design, focusing on RPGs. I'm experienced and knowledgeable in this area, I consider myself a professional, as it is one of my many passions.
 My creative pursuits also include writing and story consultation, where I focus on developing grounded narratives and believable character arcs. I pay close attention to detail, striving to create stories that maintain the readers suspension of disbelief throughout. 
 Additionally, I dabble in art, particularly with MSPaint, for creating simple yet expressive visuals.
 
@@ -12,6 +12,8 @@ Additionally, I dabble in art, particularly with MSPaint, for creating simple ye
 - German (Basic)
 
 ## **Technical Skills**:
+- Game Design
+- Unreal Engine 5
 - Intel 80386 Assembler
 - C programming
 - Embedded software development
